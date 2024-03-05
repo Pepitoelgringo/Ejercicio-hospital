@@ -5,7 +5,6 @@ public class Medico {
         this.nombremedico = nombremedico;
         this.especialidad = especialidad;
     }
-
     public String getNombremedico() {
         return nombremedico;
     }
